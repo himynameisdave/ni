@@ -367,7 +367,7 @@ nwhy lodash
 # yarn why lodash
 # pnpm why lodash
 # bun why lodash
-# (deno not supported)
+# deno why lodash
 # nub why lodash
 # aube why lodash
 ```

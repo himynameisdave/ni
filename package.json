@@ -19,12 +19,12 @@
     "./na": "./dist/na.mjs",
     "./nci": "./dist/nci.mjs",
     "./nd": "./dist/nd.mjs",
-    "./nwhy": "./dist/nwhy.mjs",
     "./ni": "./dist/ni.mjs",
     "./nlx": "./dist/nlx.mjs",
     "./nr": "./dist/nr.mjs",
     "./nun": "./dist/nun.mjs",
     "./nup": "./dist/nup.mjs",
+    "./nwhy": "./dist/nwhy.mjs",
     "./package.json": "./package.json"
   },
   "types": "./dist/index.d.mts",
